@@ -7,3 +7,4 @@ string firstname = Console.ReadLine()!;
 Console.Write("Efternamn: ");
 string lastname = Console.ReadLine()!;
 
+Console.ReadKey();
